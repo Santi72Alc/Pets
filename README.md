@@ -1,13 +1,13 @@
-# PETS - Client
+# PETS
 
 Versión elemental de CRUD sobre Pets (mascotas) con datos básicos.  
 Este proyecto usa el sistema de datos MySQL (**Leer NOTAS, por favor*)
 
-Backend:  
+**Backend**:  
 Nos posicionaremos en la carpeta ***/pets-api***.  
 Ejecutaremos el backend mediante el comando **NPM RUN DEV**..
 
-Frontend:  
+***Frontend***:  
 Posteriormente regresamos atrás y nos posicionaremos en la carpeta ***/pets-client***.  
 Usaremos el comando **NPM RUN DEV** para abrir el frontend del proyecto.  
 Nos indicará la URL y puerto a abrir.  
